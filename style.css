@@ -1,0 +1,17 @@
+#navbarBesar li {
+    list-style-type: none;
+}
+#navbarsamping button {
+    border: none;
+    background-color: transparent;
+    width: 100%;
+    height: 40px;
+    
+}
+#navbarsamping button:active {
+    background-color: rgba(210, 217, 223, 0.411);
+    color: rgb(255, 123, 0);
+}
+#navbarsamping .dropdown-menu {
+    border: none !important;
+}
